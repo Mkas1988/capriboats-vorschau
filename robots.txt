@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /website/
+Disallow: /v2
+Disallow: /v3
+Disallow: /analytics
+Disallow: /calendar-fullscreen
+Disallow: /quick-replies
+Disallow: /booking-request
+Disallow: /customer-booking/
+Disallow: /thank-you
+Disallow: /booking-confirmation/
+
+Sitemap: https://www.capriboats.com/sitemap.xml
