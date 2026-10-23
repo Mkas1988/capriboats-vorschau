@@ -2,6 +2,7 @@ User-agent: *
 Allow: /website/
 Disallow: /v2
 Disallow: /v3
+Disallow: /v4
 Disallow: /analytics
 Disallow: /calendar-fullscreen
 Disallow: /quick-replies
